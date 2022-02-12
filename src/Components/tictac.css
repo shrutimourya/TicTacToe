@@ -1,0 +1,51 @@
+table td{
+    border: 1px solid rgb(235, 206, 45);
+    width: 100px;
+    background: linear-gradient(to bottom,#22afb9 10%,#32e760); 
+    background: linear-gradient(to bottom,#2b2d47 10%,#181926);
+    height: 100px;
+    color: ivory;
+    font-size: 50px;
+    border-radius: 20px;
+    box-shadow: inset 1px 2px 0px rgb(255, 255, 255 / 18%),inset -2px -2px 2px rgb(0, 0, 0 /65%);
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    position: relative;
+    font-size: 30px;
+    height: 100vh;
+    background-color: #131419;
+    
+    
+}
+ .turn{
+     color: floralwhite;
+     background: linear-gradient(to bottom,#2b2d47 10%,#181926);
+     
+     margin-bottom: 20px;
+     
+ }
+
+ button{
+    background: linear-gradient(to bottom,#2b2d47 10%,#181926);
+     font-size: 30px;
+     border-radius: 10px;
+     border: none;
+     margin-top: 30px;
+     color:white;
+     margin-bottom: 20px;
+ }
+
+ .cont{
+    box-shadow: inset 1px 2px 0px rgb(255, 255, 255 / 18%),inset -2px -2px 2px rgb(0, 0, 0 /65%);
+    background: linear-gradient(to bottom,#22afb9 10%,#092911); 
+    padding: 10px;
+   
+ }
+ 
